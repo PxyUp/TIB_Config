@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "title": "Lets go podovan",
+      "index": 1,
+      "lifes": 11,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Square",
+          "life": 5
+        },
+        {
+          "type": "Circle",
+          "life": 3
+        },
+        {
+          "type": "Triangle",
+          "life": 3
+        }
+      ]
+    }
+  ]
+}
