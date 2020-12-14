@@ -31,7 +31,7 @@
     },
     {
       "title": "Lets go burger",
-      "lifes": 5,
+      "lifes": 6,
       "balls": [
         {
           "type": "Common"
