@@ -3,7 +3,6 @@
   "levels": [
     {
       "title": "Lets go podovan",
-      "index": 1,
       "lifes": 18,
       "balls": [
         {
@@ -29,6 +28,30 @@
           "life": 3
         }
       ]
+    },
+    {
+      "lock": true,
+    },
+    {
+      "lock": true,
+    },
+    {
+      "lock": true,
+    },
+    {
+      "lock": true,
+    },
+    {
+      "lock": true,
+    },
+    {
+      "lock": true,
+    },
+    {
+      "lock": true,
+    },
+    {
+      "lock": true,
     }
   ]
 }
