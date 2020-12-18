@@ -191,6 +191,62 @@
       ]
     },
     {
+      "title": "Go ahead",
+      "lifes": 7,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": -0.49,
+            "y": 0.2,
+            "rotation": 60
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": 0.49,
+            "y": 0.2,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": 0,
+            "y": 0.4,
+            "rotation": 40
+          }
+        },
+        {
+          "type": "Circle",
+          "life": 1,
+          "position": {
+            "x": -0.3,
+            "y": 0.7,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Square",
+          "life": 2
+        }
+      ]
+    },
+    {
       "lock": true
     },
     {
