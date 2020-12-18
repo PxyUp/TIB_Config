@@ -1,6 +1,81 @@
 {
-  "version": 3,
+  "version": 4,
   "levels": [
+    {
+      "title": "For babies",
+      "lifes": 2,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Square",
+          "life": 2
+        }
+      ]
+    },
+    {
+      "title": "More bigger",
+      "lifes": 3,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": -0.49,
+            "y": 0.5,
+            "rotation": 60
+          }
+        },
+        {
+          "type": "Square",
+          "life": 2
+        }
+      ]
+    },
+    {
+      "title": "More harder",
+      "lifes": 4,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": -0.49,
+            "y": 0.2,
+            "rotation": 60
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": 0.49,
+            "y": 0.2,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 2
+        }
+      ]
+    },
     {
       "title": "Lets go podovan",
       "lifes": 18,
@@ -64,73 +139,125 @@
       ]
     },
     {
-      "lock": true,
+      "title": "Don't be shy",
+      "lifes": 9,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": -0.49,
+            "y": 0.5,
+            "rotation": 60
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": 0.49,
+            "y": 0.5,
+            "rotation": 60
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": -0.49,
+            "y": 0.1,
+            "rotation": 60
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": 0.49,
+            "y": 0.1,
+            "rotation": 60
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 5
+        }
+      ]
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
     },
     {
-      "lock": true,
+      "lock": true
+    },
+    {
+      "lock": true
     }
   ]
 }
