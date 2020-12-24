@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "levels": [
     {
       "title": "For babies",
@@ -248,7 +248,7 @@
     },
     {
       "title": "Christmas",
-      "lifes": 16,
+      "lifes": 14,
       "balls": [
         {
           "type": "Common"
@@ -307,11 +307,7 @@
         },
         {
           "type": "Triangle",
-          "life": 1
-        },
-        {
-          "type": "Triangle",
-          "life": 3
+          "life": 2
         }
       ]
     }
