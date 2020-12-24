@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "levels": [
     {
       "title": "For babies",
@@ -73,34 +73,6 @@
         {
           "type": "Triangle",
           "life": 2
-        }
-      ]
-    },
-    {
-      "title": "Lets go podovan",
-      "lifes": 18,
-      "balls": [
-        {
-          "type": "Common"
-        }
-      ],
-      "lock": false,
-      "elements": [
-        {
-          "type": "Square",
-          "life": 5
-        },
-        {
-          "type": "Circle",
-          "life": 6
-        },
-        {
-          "type": "Triangle",
-          "life": 4
-        },
-        {
-          "type": "Triangle",
-          "life": 3
         }
       ]
     },
@@ -245,6 +217,34 @@
           "life": 2
         }
       ]
-    }
+    },
+    {
+      "title": "Lets go podovan",
+      "lifes": 18,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Square",
+          "life": 5
+        },
+        {
+          "type": "Circle",
+          "life": 6
+        },
+        {
+          "type": "Triangle",
+          "life": 4
+        },
+        {
+          "type": "Triangle",
+          "life": 3
+        }
+      ]
+    },
   ]
 }
