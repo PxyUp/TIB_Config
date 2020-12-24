@@ -246,5 +246,82 @@
         }
       ]
     },
+    {
+      "title": "Christmas",
+      "lifes": 16,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Triangle",
+          "life": 1,
+          "position": {
+            "x": 0,
+            "y": 0.7,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 2,
+          "position": {
+            "x": -0.2,
+            "y": 0.5,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 2,
+          "position": {
+            "x": 0.2,
+            "y": 0.5,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 3,
+          "position": {
+            "x": -0.4,
+            "y": 0.3,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 3,
+          "position": {
+            "x": 0.4,
+            "y": 0.3,
+            "rotation": 0
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        }
+      ]
+    }
   ]
 }
