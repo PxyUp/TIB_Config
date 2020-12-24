@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "levels": [
     {
       "title": "For babies",
@@ -269,8 +269,8 @@
           "type": "Triangle",
           "life": 2,
           "position": {
-            "x": -0.2,
-            "y": 0.5,
+            "x": -0.15,
+            "y": 0.55,
             "rotation": 0
           }
         },
@@ -278,8 +278,8 @@
           "type": "Triangle",
           "life": 2,
           "position": {
-            "x": 0.2,
-            "y": 0.5,
+            "x": 0.15,
+            "y": 0.55,
             "rotation": 0
           }
         },
@@ -287,8 +287,8 @@
           "type": "Triangle",
           "life": 3,
           "position": {
-            "x": -0.4,
-            "y": 0.3,
+            "x": -0.3,
+            "y": 0.4,
             "rotation": 0
           }
         },
@@ -296,8 +296,8 @@
           "type": "Triangle",
           "life": 3,
           "position": {
-            "x": 0.4,
-            "y": 0.3,
+            "x": 0.3,
+            "y": 0.4,
             "rotation": 0
           }
         },
@@ -311,15 +311,7 @@
         },
         {
           "type": "Triangle",
-          "life": 1
-        },
-        {
-          "type": "Triangle",
-          "life": 1
-        },
-        {
-          "type": "Triangle",
-          "life": 1
+          "life": 3
         }
       ]
     }
