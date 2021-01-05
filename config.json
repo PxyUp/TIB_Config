@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "levels": [
     {
       "title": "For babies",
@@ -772,7 +772,7 @@
           "type": "Penta",
           "life": 1,
           "position": {
-            "x": -0.45,
+            "x": 0.45,
             "y": 0.1,
             "rotation": 276
           }
@@ -819,7 +819,7 @@
           "type": "Penta",
           "life": 1,
           "position": {
-            "x": -0.45,
+            "x": 0.45,
             "y": 0.1,
             "rotation": 276
           }
