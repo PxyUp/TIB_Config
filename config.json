@@ -710,6 +710,147 @@
           "life": 1
         }
       ]
+    },
+    {
+      "title": "Unfair",
+      "lifes": 6,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Triangle",
+          "life": 2,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.25,
+            "y": 0.25,
+            "rotation": 3
+          }
+        },
+        {
+          "type": "Square",
+          "life": 1
+        },
+        {
+          "type": "Triangle",
+          "life": 2
+        }
+      ]
+    },
+    {
+      "title": "Sorry sir",
+      "lifes": 5,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 276
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.7,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Penta",
+          "life": 1
+        }
+      ]
+    },
+    {
+      "title": "Sorry miss",
+      "lifes": 6,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 276
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.7,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": 0.45,
+            "y": 0.4,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Penta",
+          "life": 1
+        }
+      ]
     }
   ]
 }
