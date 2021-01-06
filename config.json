@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "levels": [
     {
       "title": "For babies",
@@ -845,6 +845,100 @@
         {
           "type": "Triangle",
           "life": 1
+        },
+        {
+          "type": "Penta",
+          "life": 1
+        }
+      ]
+    },
+    {
+      "title": "Sorry sir",
+      "lifes": 7,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": 0.45,
+            "y": 0.1,
+            "rotation": 276
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": -0.45,
+            "y": 0.7,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": 0.45,
+            "y": 0.4,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 1
+        },
+        {
+          "type": "Penta",
+          "life": 1
+        },
+        {
+          "type": "Penta",
+          "life": 1,
+          "position": {
+            "x": 0.35,
+            "y": 0.7,
+            "rotation": 33
+          }
+        }
+      ]
+    },
+    {
+      "title": "Banza'i",
+      "lifes": 9,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Penta",
+          "life": 4,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 4
         },
         {
           "type": "Penta",
