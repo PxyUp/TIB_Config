@@ -948,7 +948,7 @@
     },
     {
       "title": "Banza'i II",
-      "lifes": 16,
+      "lifes": 13,
       "balls": [
         {
           "type": "Common"
@@ -958,7 +958,7 @@
       "elements": [
         {
           "type": "Penta",
-          "life": 8,
+          "life": 5,
           "position": {
             "x": -0.45,
             "y": 0.1,
@@ -986,7 +986,7 @@
     },
     {
       "title": "Banza'i III",
-      "lifes": 10,
+      "lifes": 7,
       "balls": [
         {
           "type": "Common"
@@ -996,7 +996,7 @@
       "elements": [
         {
           "type": "Penta",
-          "life": 6,
+          "life": 3,
           "position": {
             "x": 0,
             "y": 0.1,
