@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "levels": [
     {
       "title": "For babies",
@@ -980,6 +980,40 @@
         },
         {
           "type": "Circle",
+          "life": 2
+        }
+      ]
+    },
+    {
+      "title": "Banza'i III",
+      "lifes": 10,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Penta",
+          "life": 6,
+          "position": {
+            "x": 0,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 2,
+          "position": {
+            "x": 0.45,
+            "y": 0.6,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Triangle",
           "life": 2
         }
       ]
