@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "levels": [
     {
       "title": "For babies",
@@ -943,6 +943,78 @@
         {
           "type": "Penta",
           "life": 1
+        }
+      ]
+    },
+    {
+      "title": "Banza'i II",
+      "lifes": 13,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Penta",
+          "life": 5,
+          "position": {
+            "x": -0.45,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 4,
+          "position": {
+            "x": 0.45,
+            "y": 0.4,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Square",
+          "life": 2
+        },
+        {
+          "type": "Circle",
+          "life": 2
+        }
+      ]
+    },
+    {
+      "title": "Banza'i III",
+      "lifes": 7,
+      "balls": [
+        {
+          "type": "Common"
+        }
+      ],
+      "lock": false,
+      "elements": [
+        {
+          "type": "Penta",
+          "life": 3,
+          "position": {
+            "x": 0,
+            "y": 0.1,
+            "rotation": 44
+          }
+        },
+        {
+          "type": "Penta",
+          "life": 2,
+          "position": {
+            "x": 0.45,
+            "y": 0.6,
+            "rotation": 33
+          }
+        },
+        {
+          "type": "Triangle",
+          "life": 2
         }
       ]
     }
